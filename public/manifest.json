@@ -1,0 +1,13 @@
+{
+  "name": "Flipping is Hard Wiki",
+  "short_name": "Flipping is Hard",
+  "description": "Fan wiki for Flipping is Hard, the Foddian-style rage platformer by Elegant Horse Studios — how to flip and climb, area guides for all 10 surreal zones, online co-op and the Getting Over It comparison.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0c11",
+  "theme_color": "#e07b39",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

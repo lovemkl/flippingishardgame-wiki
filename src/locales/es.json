@@ -1,0 +1,156 @@
+{
+  "site": {
+    "name": "Flipping is Hard Wiki",
+    "shortName": "Flipping is Hard",
+    "tagline": "Wiki de fans",
+    "description": "Wiki de fans de Flipping is Hard, el rage platformer estilo Foddian de Elegant Horse Studios — cómo voltear y escalar, guías de las 10 zonas, cooperativo online y la comparación con Getting Over It.",
+    "legalNotice": "Wiki independiente. No afiliada a Elegant Horse Studios."
+  },
+  "nav": {
+    "guides": "Guías",
+    "areas": "Áreas",
+    "comparisons": "Comparativas",
+    "faq": "FAQ",
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Flipping is Hard Wiki: guía de volteos, áreas y cooperativo",
+      "description": "Flipping is Hard es el rage platformer estilo Foddian donde Flippy el flip phone escala la tierra de las cosas perdidas — volteos, 10 áreas, cooperativo y consejos."
+    },
+    "hero": {
+      "eyebrow": "Wiki de fans",
+      "title": "Flipping is Hard",
+      "description": "Flipping is Hard es el rage platformer estilo Foddian de Elegant Horse Studios: eres Flippy, un flip phone de los 90 perdido en la tierra de las cosas perdidas, escalando de vuelta hacia tu dueño Jeff — y la rotación es tu único movimiento. Sin piernas, sin saltos; solo volteos, caídas y la escalada, por diez áreas surrealistas, en solitario o con hasta 32 jugadores en cooperativo online. Lanzado en octubre de 2026 en Steam, esta wiki lo cubre desde el primer día.",
+      "primaryCta": "Leer la guía completa",
+      "secondaryCta": "Ver el tráiler oficial",
+      "tertiaryCta": "Todas las guías",
+      "stats": ["Sin piernas. Solo volteos.", "10 áreas surrealistas", "Solitario o coop de 32", "Rage platformer Foddian"]
+    },
+    "updates": {
+      "title": "Novedades de la escalada",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza a escalar en cuatro pasos",
+      "title": "Del primer volteo a la gran escalada",
+      "cards": [
+        { "number": "1", "title": "Conoce el juego", "description": "Flipping is Hard salió en octubre de 2026 — la guía completa explica a Flippy, la tierra de las cosas perdidas y por qué el diseño de solo rotación funciona." },
+        { "number": "2", "title": "Aprende a voltear", "description": "La rotación es todo el esquema de control — la guía cubre momento, ángulos de aterrizaje y los hábitos que frenan las caídas." },
+        { "number": "3", "title": "Aprende las áreas", "description": "Diez zonas surrealistas de la tierra de las cosas perdidas — las guías mapean la lógica del terreno de cada una." },
+        { "number": "4", "title": "Trae amigos", "description": "Hasta 32 jugadores en cooperativo online — la guía cubre qué cambia cuando la escalada se vuelve multitud." }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Lo más leído esta semana",
+      "title": "Tendencias",
+      "quickLinks": ["Volteos", "Áreas", "Coop", "Getting Over It"],
+      "cards": [
+        { "title": "Guía de Flipping is Hard", "description": "La orientación completa — qué es el juego, quién lo hizo y por qué el nombre es aviso y promesa." },
+        { "title": "Cómo voltear", "description": "El único control es la rotación — momento, ángulos y recuperaciones, bien enseñados." },
+        { "title": "Guías de áreas", "description": "Las diez zonas surrealistas mapeadas — terreno, picos de dificultad y líneas que valen aprender." },
+        { "title": "vs juegos Foddian", "description": "Getting Over It, Only Up y el linaje rage — dónde encaja Flipping is Hard." }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Flipping is Hard?",
+      "paragraphs": [
+        "Flipping is Hard es un precision platformer — un rage game, en el vocabulario honesto de la comunidad — de Elegant Horse Studios, estudio de Vilna, Lituania. Juegas como Flippy, un flip phone de los 90 perdido en la tierra de las cosas perdidas, escalando para volver con su dueño, Jeff. El gancho es el control: la rotación es tu único movimiento; cada metro se gana volteando, acumulando momento y comiendo las caídas.",
+        "El juego salió en octubre de 2026 en Steam, escalando por diez áreas surrealistas en solitario o con hasta 32 jugadores en cooperativo online. Pertenece al linaje Foddian y lleva la crueldad del género con la calidez de un objeto noventero. Esta wiki lo cubre desde el lanzamiento."
+      ],
+      "stats": [
+        { "label": "Desarrollo", "value": "Elegant Horse" },
+        { "label": "Héroe", "value": "Flippy el teléfono" },
+        { "label": "Movimiento", "value": "Solo rotación" },
+        { "label": "Áreas", "value": "10 zonas" },
+        { "label": "Coop", "value": "Hasta 32" },
+        { "label": "Estado", "value": "En Steam" }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Todo sobre la escalada, mapeado",
+      "description": "Guías, áreas, comparativas y respuestas — el kit completo.",
+      "modules": [
+        { "order": 1, "name": "Guía de Flipping is Hard", "description": "La orientación completa.", "href": "/guide/flipping-is-hard-guide", "displayType": "step-by-step", "highlights": [{ "label": "1", "detail": "Flippy, Jeff y la tierra de las cosas perdidas" }, { "label": "2", "detail": "El diseño de solo rotación y por qué funciona" }, { "label": "3", "detail": "El estudio y el linaje Foddian" }] },
+        { "order": 2, "name": "Cómo voltear", "description": "Todo el esquema de control.", "href": "/guide/how-to-flip", "displayType": "step-by-step", "highlights": [{ "label": "1", "detail": "Momento — cómo los volteos son distancia" }, { "label": "2", "detail": "Aterrizajes — los ángulos que pegan" }, { "label": "3", "detail": "Recuperaciones — caer sin perder" }] },
+        { "order": 3, "name": "Guía cooperativa", "description": "La escalada en multitud.", "href": "/guide/co-op-guide", "displayType": "tier-grid", "highlights": [{ "label": "S", "detail": "Qué cambian 32 jugadores" }, { "label": "A", "detail": "Jugar juntos sin arruinarse" }, { "label": "B", "detail": "La comedia y las caídas compartidas" }, { "label": "C", "detail": "Solitario contra coop — dónde aprender" }] },
+        { "order": 4, "name": "Áreas 1–5", "description": "La primera mitad.", "href": "/areas/areas-1-to-5", "displayType": "code-cards", "highlights": [{ "label": "Tierra de cosas perdidas", "detail": "Las zonas iniciales — lógica del terreno y líneas que valen aprender", "badge": "Guía" }] },
+        { "order": 5, "name": "Áreas 6–10", "description": "La escalada alta.", "href": "/areas/areas-6-to-10", "displayType": "code-cards", "highlights": [{ "label": "La mitad dura", "detail": "Las zonas tardías donde las caídas se alargan", "badge": "Guía" }] },
+        { "order": 6, "name": "Consejos y mentalidad", "description": "La rabia, gestionada.", "href": "/guide/tips-and-mindset", "displayType": "tier-grid", "highlights": [{ "label": "S", "detail": "Hábitos que frenan las espirales de caída" }, { "label": "A", "detail": "Pensar en checkpoints" }, { "label": "B", "detail": "Gestionar el tilt en rage games" }, { "label": "C", "detail": "Qué no hacer en las primeras horas" }] },
+        { "order": 7, "name": "vs juegos Foddian", "description": "El linaje rage.", "href": "/comparisons/vs-foddian-games", "displayType": "step-by-step", "highlights": [{ "label": "1", "detail": "Getting Over It — la comparación fundacional" }, { "label": "2", "detail": "Qué cambia la solo-rotación en la rabia" }, { "label": "3", "detail": "Qué rage game para qué jugador" }] },
+        { "order": 8, "name": "FAQ", "description": "Respuestas directas.", "href": "/faq/faq", "displayType": "card-list", "highlights": [{ "label": "❓", "detail": "¿Ya salió? ¿Cuánto cuesta? ¿Es muy difícil?" }, { "label": "🛋", "detail": "Soporte de mando y opciones" }, { "label": "🤝", "detail": "¿El coop lo hace más fácil?" }] }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Flipping is Hard.",
+      "items": [
+        { "question": "¿Qué es Flipping is Hard?", "answer": "Un rage platformer estilo Foddian de Elegant Horse Studios. Juegas como Flippy, un flip phone de los 90 escalando por la tierra de las cosas perdidas para volver con su dueño Jeff — con la rotación como único movimiento, por 10 áreas surrealistas, solo o con hasta 32 jugadores en coop online." },
+        { "question": "¿Ya salió Flipping is Hard?", "answer": "Sí — salió completo en octubre de 2026 en Steam, con descuento de lanzamiento en su salida. Esta wiki lo cubre desde el primer día." },
+        { "question": "¿Es demasiado difícil para mí?", "answer": "Es difícil — es el nombre del juego y su aviso honesto. Pero la dificultad es de maestría: cada caída enseña y cada metro se gana. La página de consejos y mentalidad existe justo para esta pregunta." },
+        { "question": "¿El cooperativo lo hace más fácil?", "answer": "Lo hace diferente. Hasta 32 jugadores comparten la escalada — compañía en las caídas, testigos de las victorias y una comedia que el modo solitario no iguala — pero los volteos de cada quien siguen siendo suyos." }
+      ]
+    },
+    "finalCta": {
+      "title": "La escalada está abierta.",
+      "description": "Las guías, las áreas, el cooperativo — todo para voltear, caer y escalar de vuelta con Jeff desde el primer día.",
+      "primary": "Leer la guía completa",
+      "secondary": "La página de Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Rastreador de escalada",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todas las guías",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Flipping is Hard Wiki",
+    "about": "Flipping is Hard Wiki es una wiki independiente construida por fans que cubre el rage platformer estilo Foddian de Elegant Horse Studios — cómo voltear, las diez áreas surrealistas, el cooperativo online y la escalada de vuelta con Jeff, escrita jugando y actualizada a medida que la comunidad mapea la montaña.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Flipping is Hard Wiki. No afiliada a Elegant Horse Studios. Flipping is Hard es una marca de su respectivo propietario.",
+    "description": "La wiki de Flipping is Hard — volteos, guías de áreas, cooperativo y el linaje Foddian.",
+    "playGame": "Página de Steam",
+    "officialDiscord": "Comunidad",
+    "officialYoutube": "Desarrollador",
+    "epicStore": "Steam",
+    "beginnerGuide": "Guía completa",
+    "mapGuides": "Cómo voltear",
+    "weaponsGuides": "Guía cooperativa",
+    "buildGuide": "vs Foddian",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías",
+    "overviewDescription": "Todas las guías de Flipping is Hard — la orientación completa, cómo voltear, el cooperativo y la mentalidad que sobrevive a las caídas."
+  },
+  "areas": {
+    "overviewTitle": "Áreas",
+    "overviewDescription": "Las diez áreas surrealistas de la tierra de las cosas perdidas — terreno, picos de dificultad y líneas que valen aprender."
+  },
+  "comparisons": {
+    "overviewTitle": "Comparativas",
+    "overviewDescription": "Flipping is Hard contra el linaje Foddian — Getting Over It, Only Up y qué cambia la solo-rotación."
+  },
+  "faq": {
+    "overviewTitle": "FAQ",
+    "overviewDescription": "Respuestas directas sobre el juego — el lanzamiento, la dificultad, el cooperativo y los controles."
+  }
+}

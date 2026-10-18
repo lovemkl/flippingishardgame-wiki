@@ -1,0 +1,242 @@
+{
+  "site": {
+    "name": "Flipping is Hard Wiki",
+    "shortName": "Flipping is Hard",
+    "tagline": "Fan-Made Wiki",
+    "description": "Fan wiki for Flipping is Hard, the Foddian-style rage platformer by Elegant Horse Studios — how to flip and climb, area guides for all 10 surreal zones, online co-op and the Getting Over It comparison.",
+    "legalNotice": "Independent fan wiki. Not affiliated with Elegant Horse Studios."
+  },
+  "nav": {
+    "guides": "Guides",
+    "areas": "Areas",
+    "comparisons": "Comparisons",
+    "faq": "FAQ",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
+  "home": {
+    "meta": {
+      "title": "Flipping is Hard Wiki: How to Flip, Areas & Co-op Guide",
+      "description": "Flipping is Hard is the Foddian-style rage platformer where Flippy the flip phone climbs the land of lost things — how to flip, all 10 areas, co-op and tips."
+    },
+    "hero": {
+      "eyebrow": "Fan-Made Wiki",
+      "title": "Flipping is Hard",
+      "description": "Flipping is Hard is the Foddian-style rage platformer from Elegant Horse Studios: you are Flippy, a '90s flip phone lost in the land of lost things, climbing back toward your owner Jeff — and rotation is your only movement. No legs, no walking, no jumping; just flips, falls and the climb, through ten surreal areas, solo or with up to 32 players in online co-op. Released in October 2026 on Steam, this wiki covers it from day one: how the flipping actually works, the areas and their tricks, the co-op chaos, and how it stands in the Getting Over It lineage.",
+      "primaryCta": "Read the Complete Guide",
+      "secondaryCta": "Watch the Official Trailer",
+      "tertiaryCta": "All Guides",
+      "stats": ["No Legs. Just Flips.", "10 Surreal Areas", "Solo or 32-Player Co-op", "Foddian Rage Platformer"]
+    },
+    "updates": {
+      "title": "Fresh From the Climb",
+      "browse": "Browse All Guides",
+      "viewAll": "View All"
+    },
+    "start": {
+      "eyebrow": "Start Climbing In Four Steps",
+      "title": "From First Flip to the Long Climb",
+      "cards": [
+        { "number": "1", "title": "Know the Game", "description": "Flipping is Hard released in October 2026 — the complete guide explains Flippy, the land of lost things and why rotation-only movement makes a rage game honest." },
+        { "number": "2", "title": "Learn to Flip", "description": "Rotation is the entire control scheme — the flip guide covers momentum, landing angles and the habits that stop the falls that stop the climb." },
+        { "number": "3", "title": "Learn the Areas", "description": "Ten surreal zones from the land of lost things — the area guides map each one's terrain logic and the checkpoints worth reaching." },
+        { "number": "4", "title": "Bring Friends", "description": "Up to 32 players in online co-op — the co-op guide covers what changes when the climb becomes a crowd." }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Most-Read This Week",
+      "title": "Trending Now",
+      "quickLinks": ["How to Flip", "Areas", "Co-op", "Getting Over It"],
+      "cards": [
+        { "title": "Flipping is Hard Guide", "description": "The complete orientation — what the game is, who made it, and why the name is a warning and a promise." },
+        { "title": "How to Flip", "description": "The only control is rotation — the mechanics of momentum, angles and recoveries, taught properly." },
+        { "title": "Area Guides", "description": "All ten surreal zones mapped — terrain logic, difficulty spikes and the lines worth learning." },
+        { "title": "vs Foddian Games", "description": "Getting Over It, Only Up and the rage lineage — where Flipping is Hard sits and who it's for." }
+      ]
+    },
+    "aboutGame": {
+      "title": "What Is Flipping is Hard?",
+      "paragraphs": [
+        "Flipping is Hard is a precision platformer — a rage game, in the community's honest vocabulary — from Elegant Horse Studios, a studio out of Vilnius, Lithuania. You play Flippy, a '90s flip phone, lost in the land of lost things and climbing to return to his owner, Jeff. The hook is the control scheme: rotation is your only movement. Flippy has no legs and no jump button; every meter of the climb is earned by flipping, building momentum, landing at angles that stick, and eating the falls that come when they don't.",
+        "The game released in October 2026 on Steam, climbing through ten surreal areas either solo or with up to 32 players in online co-op. It belongs to the Foddian lineage — Getting Over It's school of one-mistake-falls and earned mastery — and it wears the genre's cruelty with a '90s-object warmth that keeps the rage funny. This wiki covers it from launch: the flipping mechanics, the areas, the co-op, and the culture around the climb."
+      ],
+      "stats": [
+        { "label": "Developer", "value": "Elegant Horse" },
+        { "label": "Hero", "value": "Flippy the Phone" },
+        { "label": "Movement", "value": "Rotation Only" },
+        { "label": "Areas", "value": "10 Surreal Zones" },
+        { "label": "Co-op", "value": "Up to 32 Players" },
+        { "label": "Status", "value": "Out on Steam" }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "explore": {
+      "title": "Everything About the Climb, Mapped",
+      "description": "Guides, areas, comparisons and answers — the complete toolkit.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Flipping is Hard Guide",
+          "description": "The complete orientation.",
+          "href": "/guide/flipping-is-hard-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Flippy, Jeff and the land of lost things" },
+            { "label": "2", "detail": "Rotation-only design and why it works" },
+            { "label": "3", "detail": "The studio and the Foddian lineage" }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "How to Flip",
+          "description": "The entire control scheme.",
+          "href": "/guide/how-to-flip",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Momentum — how flips become distance" },
+            { "label": "2", "detail": "Landings — the angles that stick" },
+            { "label": "3", "detail": "Recoveries — falling without losing" }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Co-op Guide",
+          "description": "The climb as a crowd.",
+          "href": "/guide/co-op-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "What 32 players changes about the climb" },
+            { "label": "A", "detail": "Playing together without ruining each other" },
+            { "label": "B", "detail": "The comedy and the shared falls" },
+            { "label": "C", "detail": "Solo versus co-op — which to learn in" }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Areas 1–5",
+          "description": "The first half of the climb.",
+          "href": "/areas/areas-1-to-5",
+          "displayType": "code-cards",
+          "highlights": [
+            { "label": "Land of Lost Things", "detail": "The opening zones — terrain logic, difficulty spikes and the lines worth learning", "badge": "Guide" }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Areas 6–10",
+          "description": "The upper climb.",
+          "href": "/areas/areas-6-to-10",
+          "displayType": "code-cards",
+          "highlights": [
+            { "label": "The Hard Half", "detail": "The late zones where the falls get longest and the mastery gets real", "badge": "Guide" }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Tips & Mindset",
+          "description": "The rage, managed.",
+          "href": "/guide/tips-and-mindset",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "The habits that stop fall spirals" },
+            { "label": "A", "detail": "Checkpoint thinking — progress that survives" },
+            { "label": "B", "detail": "Tilt management for rage games" },
+            { "label": "C", "detail": "What not to do in the first hours" }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "vs Foddian Games",
+          "description": "The rage lineage.",
+          "href": "/comparisons/vs-foddian-games",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Getting Over It — the founding comparison" },
+            { "label": "2", "detail": "What rotation-only changes about the rage" },
+            { "label": "3", "detail": "Which rage game for which player" }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "FAQ",
+          "description": "The straight answers.",
+          "href": "/faq/faq",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "❓", "detail": "Is it out? What does it cost? Is it too hard?" },
+            { "label": "🛋", "detail": "Controller support and comfort options" },
+            { "label": "🤝", "detail": "Does co-op make it easier or worse?" }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Quick answers to the most common questions about Flipping is Hard.",
+      "items": [
+        { "question": "What is Flipping is Hard?", "answer": "A Foddian-style rage platformer by Elegant Horse Studios. You play Flippy, a '90s flip phone climbing through the land of lost things to return to his owner Jeff — using rotation as your only movement, through 10 surreal areas, solo or with up to 32 players in online co-op." },
+        { "question": "Is Flipping is Hard out?", "answer": "Yes — it fully released in October 2026 on Steam, with a launch discount running at release. This wiki has covered it since launch day, and its pages update as the community maps the climb." },
+        { "question": "Is it too hard for me?", "answer": "It is hard — that is the game's name and its honest warning. But the difficulty is mastery-based rather than gated: every fall teaches, every meter is earned, and the players who finish are the ones who kept flipping, not the ones with special reflexes. The tips and mindset page exists precisely for this question." },
+        { "question": "Does co-op make it easier?", "answer": "It makes it different. Up to 32 players share the climb — company for the falls, witnesses for the wins, and a comedy that solo cannot match — but each player's flips remain their own. The co-op guide covers what changes and what doesn't." }
+      ]
+    },
+    "finalCta": {
+      "title": "The climb is open.",
+      "description": "The guides, the areas, the co-op playbook — everything to flip, fall and climb back to Jeff from day one.",
+      "primary": "Read the Complete Guide",
+      "secondary": "The Steam Page"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki Navigation",
+    "activeCodes": "Climb Tracker",
+    "updated": "Updated",
+    "viewAllCodes": "View all guides",
+    "inThisSection": "In this section",
+    "tableOfContents": "Table of Contents",
+    "nextSteps": "Next Steps",
+    "needHelp": "Need Help?",
+    "relatedReading": "Related Reading",
+    "relatedGuides": "Related Guides",
+    "readMore": "Read more",
+    "officialMedia": "Official media",
+    "home": "Home",
+    "noGuidesAvailable": "No guides available yet. Check back soon!"
+  },
+  "footer": {
+    "aboutTitle": "Flipping is Hard Wiki",
+    "about": "Flipping is Hard Wiki is an independent fan-built wiki covering Elegant Horse Studios' Foddian-style rage platformer — how to flip, the ten surreal areas, online co-op and the climb back to Jeff, written from play and updated as the community maps the mountain.",
+    "quickLinks": "Quick Links",
+    "guides": "Guides",
+    "legal": "Legal",
+    "copyright": "2026 Flipping is Hard Wiki. Not affiliated with Elegant Horse Studios. Flipping is Hard is a trademark of its respective owner.",
+    "description": "The Flipping is Hard wiki — how to flip, area guides, co-op and the Foddian lineage.",
+    "playGame": "Steam Page",
+    "officialDiscord": "Community",
+    "officialYoutube": "Developer",
+    "epicStore": "Steam",
+    "beginnerGuide": "Complete Guide",
+    "mapGuides": "How to Flip",
+    "weaponsGuides": "Co-op Guide",
+    "buildGuide": "vs Foddian Games",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Guides",
+    "overviewDescription": "Every Flipping is Hard guide — the complete orientation, how to flip, the co-op playbook and the mindset that survives the falls."
+  },
+  "areas": {
+    "overviewTitle": "Areas",
+    "overviewDescription": "The ten surreal areas of the land of lost things — terrain logic, difficulty spikes and the lines worth learning."
+  },
+  "comparisons": {
+    "overviewTitle": "Comparisons",
+    "overviewDescription": "Flipping is Hard against the Foddian lineage — Getting Over It, Only Up and what rotation-only changes."
+  },
+  "faq": {
+    "overviewTitle": "FAQ",
+    "overviewDescription": "Straight answers about the game — the release, the difficulty, the co-op and the controls."
+  }
+}
